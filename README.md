@@ -22,4 +22,4 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tuni0&show_icons=true&locale=en&layout=compact" alt="Tuni0" /></p>
 
 
-![snake gif](https://github.com/Tuni0/About/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Tuni0/Tuni0/blob/output/github-snake-dark.svg)
