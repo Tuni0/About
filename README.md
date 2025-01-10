@@ -2,4 +2,4 @@
 
 
 
-![snake gif](https://github.com/Tuni0/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Tuni0/Tuni0/blob/output/github-snake-dark.svg)
